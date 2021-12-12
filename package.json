@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hhugom/advent-of-code-2021#readme",
   "devDependencies": {
-    "@types/node": "^16.11.11"
+    "@types/node": "^16.11.11",
+    "prettier": "^2.5.1"
   }
 }
